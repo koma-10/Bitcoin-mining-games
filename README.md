@@ -29,4 +29,3 @@ ten minutes in expectation. Once a block is inserted in the blockchain, the math
 faced by all miners are modified and we can consider that a fresh new speed game starts between
 miners. Hence, the whole building of the blockchain can be considered as independent block
 insertions from the miners’ point of view.
-
