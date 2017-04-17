@@ -29,3 +29,7 @@ ten minutes in expectation. Once a block is inserted in the blockchain, the math
 faced by all miners are modified and we can consider that a fresh new speed game starts between
 miners. Hence, the whole building of the blockchain can be considered as independent block
 insertions from the miners’ point of view.
+
+BACKGROUND
+Is a digital asset and a payment system invented by satoshi nakamoto. Nakamoto introduced the idea on 31 october 2008 to a crystography mailing list and releasd it as an open source software in 2009.There have been several high profile claims to identity  of satoshi nakamoto. However,none of them has provided proof beyond doubt that back up ther claims.
+The system is peer to peer so transaction takes place directly, without an intermediary. These instructions are verified by network nodes and recorded in apublic distributed  ledger called the blockchain,which uses bitcoin as its unit account. Since the systemworks without a central repository or single administor,the US.treasury categorizes bitcoin as descentralized virtual currency.It is often called the firs crystocurrenc, although prior systems existed and it is described as descentralised digital currency.Bitcoin is the largest of its kind in terms of total market value. Bitcoins are created as a reward for payment processing work in which users offer their computing power to verify and record payments into a called public ledger. 
