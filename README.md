@@ -44,6 +44,7 @@ During the winter of 2011, a new industry sprung up with custom equipment that p
 Another application for bitcoins that is expected to become more important in the future is international payments, right now wiring money internationally involves slow,expensive and inconvenient services like western union.so this makes it very hard for miners to make payment within the stipulated period of time.And this has affected miners since it may not be affordable and neither is user friendly to them.
 
 1.3  OBJECTIVES
+It describes the aims of the research carried out at bitcoin mining games'
 
 1.3.1 MAJOR OBJECTIVE.
  
@@ -54,8 +55,20 @@ Another application for bitcoins that is expected to become more important in th
  To know what currency they use to pay for the game one would like to play.
  To make bitcoin mining games user friendly and affordable.
  To know  the various types of games in bitcoin mining industry
- 1.4
+ 
+ 1.4  THE SCOPE
+ 
+ This research only focuses on bitcoin mining games in a way that it fully describes the activities that happen at bitcoin mining games hence giving a great deal of activities that is carried out there.
  
 1.5 SIGNIFICANCE
 
 The purpose of this study enables us to know the overall activities done by bitcoin mining games since there is also calculating the hashing of data and how they are arranged discover the metrics and the means of curreny used by bitcoin which is actually bitcoin.
+
+1.6 METHODOLOGY
+This describes the methods used during research .
+1.6.1 RESEARCH DESIGN.
+Actually this was the most used method which was basically done by visiting sites of bitcoin mining,watch tutorials and checking out on different articles conserning bitcoin mining games.
+
+
+
+
