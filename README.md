@@ -66,8 +66,10 @@ The purpose of this study enables us to know the overall activities done by bitc
 
 1.6 METHODOLOGY
 This describes the methods used during research .
+
+
 1.6.1 RESEARCH DESIGN.
-Actually this was the most used method which was basically done by visiting sites of bitcoin mining,watch tutorials and checking out on different articles conserning bitcoin mining games.
+Actually this was the most used method which was basically done by visiting sites of bitcoin mining,watch tutorials and checking out on different articles conserning bitcoin mining games.Going through sample guestions people have asked about bitcoin mining games.
 
 
 
