@@ -84,7 +84,3 @@ Exploring Miner Evolution in Bitcoin Network (http://wan.poly.edu/pam2015/papers
 
 On the Instability of Bitcoin Without the Block Reward (https://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf) Accessed April 19, 2017.
 
-
-
-
-
