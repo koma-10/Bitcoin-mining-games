@@ -43,13 +43,13 @@ It describes the aims of the research carried out at bitcoin mining games'
 
 1.3.1 MAIN OBJECTIVE.
  
- The main part of this research is to know how miners play the bitcoin mining games,the means of payment that is used and at what period of time one is expected to pay.
+ The main part of this research is to know how miners play the bitcoin mining games,the means of payment that is used and at what period of time one is expected to be paid.
  
  1.3.2 SPECIFIC OBJECTIVES
  
- To know what currency they use to pay for the game one would like to play.
- To make bitcoin mining games user friendly and affordable.
- To know  the various types of games in bitcoin mining industry
+ To know what currency they use to pay for the game when one would like to play the game.
+ To make bitcoin mining games user friendly and affordable to players.
+ To know  the various types of games in bitcoin mining industry.
  
  1.4  THE SCOPE
  
@@ -58,13 +58,19 @@ It describes the aims of the research carried out at bitcoin mining games'
 1.5 SIGNIFICANCE
 
 The purpose of this study enables us to know the overall activities done by bitcoin mining games since there is also calculating the hashing of data and how they are arranged discover the metrics and the means of curreny used by bitcoin which is actually bitcoin.
+This study will provide the individuals who are willing to join the bitcoin mining games the clear picture activities are done during the mining process.
+This study will help the individuals who are willing to take part in the mining to learn how they are paid.
 
-1.6 METHODOLOGY
-This describes the methods used during research .
+1.6 METHODOLOGY.
+we have used observation to view how bitcoin mining games are played using the internet.
+we have used journals to inquire more about the bitcoin mining games.
+we have used online tutorials to learn more about the bitcoin mining games.
+we have visited different websites to learn more about bitcoin mining games.
 
+1.7 REFERENCES.
+[1] bitcoin.org: Frequently asked questions. (https://bitcoin.org/en/faq) Accessed April 19, 2017.
+[2] Coinbase.com. (https://www.coinbase.com) Accessed April 19, 2017.
 
-1.6.1 RESEARCH DESIGN.
-Actually this was the most used method which was basically done by visiting sites of bitcoin mining,watch tutorials and checking out on different articles conserning bitcoin mining games.Going through sample guestions people have asked about bitcoin mining games.
 
 
 
