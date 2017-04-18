@@ -45,13 +45,17 @@ Another application for bitcoins that is expected to become more important in th
 
 1.3  OBJECTIVES
 
-1.3.1 Major objective.
+1.3.1 MAJOR OBJECTIVE.
  
  The main part of this research is to know how miners play the bitcoin mining games,the means of payment that is used and at what period of time one is expected to pay.
  
- 1.3.2 Other objectives
+ 1.3.2 OTHER OBJECTIVES
  
  To know what currency they use to pay for the game one would like to play.
  To make bitcoin mining games user friendly and affordable.
  To know  the various types of games in bitcoin mining industry
+ 1.4
  
+1.5 SIGNIFICANCE
+
+The purpose of this study enables us to know the overall activities done by bitcoin mining games since there is also calculating the hashing of data and how they are arranged discover the metrics and the means of curreny used by bitcoin which is actually bitcoin.
