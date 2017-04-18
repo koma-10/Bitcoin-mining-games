@@ -30,18 +30,5 @@ faced by all miners are modified and we can consider that a fresh new speed game
 miners. Hence, the whole building of the blockchain can be considered as independent block
 insertions from the miners’ point of view
 
-
-(viii) Main activities 
-
-A1.1 Organizing six training workshops for staff of national statistical offices to improve the technical capabilities of countries in the collection of demographic and social statistics, economic statistics and environment and energy statistics; in statistical classification; in the organization of statistical systems; and in user-producer relationships; 
-
-A1.2 Promoting exchanges of experts between statistical offices to encourage the implementation of common methodologies and facilitate exchanges of information on statistical standards; 
-
-A1.3 Establishing the connectivity of experts in statistics-related ICT to promote the sharing of information among experts in their respective fields, access to information on websites and exchange of statistical reports; 
-
-A2.1 Convening a working group meeting by UNSD in collaboration with SADC Secretariat on the harmonization of development indicators to exchange country experiences and the development of common methodologies and classifications for the collection of data. 
-
-A2.2 Providing technical assistance to strengthen national and regional institutions in the collection, compilation and dissemination of statistics and the use and maintenance of technology; 
-
-A2.3 Organizing intra-regional study tours to draw on the strengths and achievements of the countries in the region through study tours and to create opportunities for staff from statistically less developed countries to learn best practices and to share experience with others in the region from their peers. 
-
+Research Scope. 
+Bitcoin mining is 
