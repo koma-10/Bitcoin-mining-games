@@ -80,6 +80,10 @@ bitcoin.org: Frequently asked questions. (https://bitcoin.org/en/faq) Accessed A
 
 Coinbase.com. (https://www.coinbase.com) Accessed April 19, 2017.
 
+Exploring Miner Evolution in Bitcoin Network (http://wan.poly.edu/pam2015/papers/23.pdf)  Accessed April 19, 2017.
+
+On the Instability of Bitcoin Without the Block Reward (https://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf) Accessed April 19, 2017.
+
 
 
 
